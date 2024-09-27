@@ -1,0 +1,13 @@
+.container{
+    min-height: 100vh;
+    padding: 0;
+}
+.selctg{
+    cursor: pointer;
+}
+.sticky{
+    position:sticky;
+    top:0;
+    background-color: rgb(250, 219, 125);
+   
+}
